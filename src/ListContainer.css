@@ -4,4 +4,7 @@
   justify-content: center;
   align-items: center;
   margin: auto;
+  border-radius: 10px;
+  max-width: 400px;
+  background-color: rgb(30, 215, 96);
 }
