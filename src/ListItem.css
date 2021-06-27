@@ -43,6 +43,8 @@
   text-align: right;
   border-radius: 8px;
   margin-top: 5px;
+  height: 25px;
+  font-size: 12px;
   margin: 10px 10px 10px 10px;
   font-size: 13px;
   cursor: pointer;
