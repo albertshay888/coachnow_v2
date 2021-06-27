@@ -1,0 +1,39 @@
+.ListItem {
+  height: 141px;
+  background-color: lightgrey;
+  width: 365px;
+
+  border-radius: 10px;
+  box-shadow: 5px 5px 30px grey;
+  margin: 5px;
+  position: relative;
+}
+
+.ListItem img {
+  width: 100px;
+  height: 100px;
+  margin: 10px 10px 10px 10px;
+  border-radius: 50%;
+  object-fit: cover;
+  float: left;
+}
+.name {
+  margin-top: 10px;
+  text-align: left;
+  font-family: 'Lato', sans-serif;
+}
+.itemInfo {
+  margin-top: 5px;
+  font-size: 13px;
+  text-align: left;
+  font-family: 'Lato', sans-serif;
+}
+.price {
+  font-family: 'Lato', sans-serif;
+  text-align: right;
+  margin-top: 5px;
+  margin: 10px 10px 10px 10px;
+  font-size: 13px;
+  cursor: pointer;
+  float: right;
+}

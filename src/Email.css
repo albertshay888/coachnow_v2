@@ -1,0 +1,21 @@
+.email {
+  background-color: lightgrey;
+  top: 120px;
+  box-shadow: 5px 5px 30px grey;
+  border-radius: 10px;
+  width: 100%;
+  position: absolute;
+  z-index: 2;
+  align-items: center;
+}
+
+.widget {
+  background-color: lightgrey;
+  top: 120px;
+
+  box-shadow: 5px 5px 30px grey;
+  border-radius: 10px;
+  width: 340px;
+  position: absolute;
+  z-index: 1;
+}
